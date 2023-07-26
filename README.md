@@ -2,19 +2,17 @@
  
 This is a supplementary analysis of the [previous project](https://github.com/sms06164/SQL-DVD-Rental-DB-project) on DVD rental database using Python.
 
-
-#Tool
+**Tool**
 - Jupyter Notebook
 - Python
-
-#Library
+**Library**
 - NumPy
 - Pandas
 - Matplotlib
 
 
 
-#Following works were done,
+**Following works were done,**
 
 1. A time-series plot was created to show daily total revenue for three randomly chosen countries.
 2. A sentiment analysis was done on the movide descriptions with a new column added.
