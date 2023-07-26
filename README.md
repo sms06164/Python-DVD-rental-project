@@ -1,8 +1,20 @@
 # Python DVD rental project
  
-This is a supplementary analysis of the DVD rental database using Python.
+This is a supplementary analysis of the [previous project](https://github.com/sms06164/SQL-DVD-Rental-DB-project) on DVD rental database using Python.
 
-Following works were done,
+
+#Tool
+- Jupyter Notebook
+- Python
+
+#Library
+- NumPy
+- Pandas
+- Matplotlib
+
+
+
+#Following works were done,
 
 1. A time-series plot was created to show daily total revenue for three randomly chosen countries.
 2. A sentiment analysis was done on the movide descriptions with a new column added.
