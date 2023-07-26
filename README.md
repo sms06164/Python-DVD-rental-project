@@ -5,6 +5,7 @@ This is a supplementary analysis of the [previous project](https://github.com/sm
 **Tool**
 - Jupyter Notebook
 - Python
+
 **Library**
 - NumPy
 - Pandas
